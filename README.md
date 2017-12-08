@@ -1,2 +1,3 @@
 # snote-web
-snote的前端
+
+> SNote前端项目
